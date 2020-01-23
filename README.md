@@ -4,7 +4,7 @@ Giúp kiểm tra thông tin, mã lỗi của key một cách dễ dàng !
 – Tải về và sử dụng :
 + [Phiên bản dành cho members](https://link.com)
 + [Phiên bản dành cho supporters](https://link.com)
-+ [Hướng dẫn sử dụng](link.com)
++ [Hướng dẫn sử dụng](https://docs.google.com/document/d/1obHwQgOEXXH6WFGljdRBs_NqTM5FLL06MFNDEV8ToDg/edit?usp=sharing)
 
 – Một số hình ảnh về tool :
 <p align="center">
