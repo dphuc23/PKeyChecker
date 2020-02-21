@@ -13,6 +13,7 @@ Giúp kiểm tra thông tin, mã lỗi của key một cách dễ dàng !
 <p align="center">
   <img src="https://raw.githubusercontent.com/dphuc23/PKeyChecker/master/img/frmMain.png">
   <img src="https://raw.githubusercontent.com/dphuc23/PKeyChecker/master/img/frmDat.png">
+  <img src="https://raw.githubusercontent.com/dphuc23/PKeyChecker/master/img/frmLicen.png">
   <img src="https://raw.githubusercontent.com/dphuc23/PKeyChecker/master/img/frmLic.png">
   <img src="https://raw.githubusercontent.com/dphuc23/PKeyChecker/master/img/frmAdd.png">
 </p>
